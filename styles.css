@@ -955,3 +955,14 @@ ul.bullet li { margin: 6px 0; }
     height: 54px; /* increase logo size on mobile */
   }
 }
+.footer-license {
+  font-size: 13px;
+  color: #999;
+  margin-top: 12px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.footer-license strong {
+  color: #666;
+}
